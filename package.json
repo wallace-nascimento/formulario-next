@@ -1,6 +1,7 @@
 {
-  "name": "next-grud",
+  "name": "next-crud",
   "version": "0.1.0",
+  "homepage": "https://wallace-nascimento.github.io/formulario-next/",
   "private": true,
   "scripts": {
     "dev": "next dev",
